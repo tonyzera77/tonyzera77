@@ -1,11 +1,9 @@
-# Olá, eu sou Tom!
+# Olá, eu sou o Antonio.
 
-💻 Estudante de Ciencias da Computação.
-
-## 🚀 Sobre mim
-- 🎓 Estudando programação e tecnologia
-- 🤖 Interessado em Inteligência Artificial
-- 📚 Sempre aprendendo coisas novas
+## Sobre mim
+- Estudando programação e tecnologia
+- Interessado em Inteligência Artificial
+- Sempre me levando aos limites.
 
 ## 🛠️ Tecnologias
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
